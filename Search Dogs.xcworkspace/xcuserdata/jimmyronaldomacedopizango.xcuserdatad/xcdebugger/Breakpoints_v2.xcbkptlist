@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28F6A6A1-5822-4C8A-B0FA-CF5FD2E32425"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFE4DC22-C89B-4C3D-B6D0-E8272BBD1B73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "HomeViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HOME/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "listDogs"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - 101b65396956fd70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.listDogs.getter : Swift.Array&lt;Search_Dogs.DogMapperResponse&gt;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - 5d625c1492a4a564"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.listDogs.setter : Swift.Array&lt;Search_Dogs.DogMapperResponse&gt;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - fe5f6081ef064773"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.listDogs.modify : Swift.Array&lt;Search_Dogs.DogMapperResponse&gt;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - dbc47d9670e3c92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.listDogs.modify : Swift.Array&lt;Search_Dogs.DogMapperResponse&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - 123f3995b378e794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Search_Dogs.HomeViewController"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "69BC34B0-1750-4148-8AF0-B1E233BBB246 - 7d90c190f1e2b48f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Search_Dogs.HomeViewController&gt;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/HOME/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1658FEE4-CB15-4603-8030-DFD4B8088AB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HomeDetail/Configurator/HomeDetailConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "createModuleDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05F59F83-005C-4BFB-A707-EEEB82EFFC1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HomeDetail/Configurator/HomeDetailConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "createModuleDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8143834-0E9E-4D97-A5E5-BD658316CA3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HomeDetail/Configurator/HomeDetailConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "createModuleDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98C54B35-D157-4080-ABE2-31AF967D910D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HomeDetail/Configurator/HomeDetailConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "createModuleDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2F96BC9-AEC0-4EF1-B5AF-81C0F980582D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/HomeDetail/Configurator/HomeDetailConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "createModuleDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80DB126B-CDB5-4B92-9DDD-FF5C30AC180C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/Home/Router/HomeRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "navigateToHomeDetail(dog:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52C09961-EF1A-4EDE-BF24-48DDD1ECED6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/Home/Router/HomeRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "navigateToHomeDetail(dog:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894E7007-D65D-4E7E-BD4A-B63202533BF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Search Dogs/VIPER/Home/View/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "894E7007-D65D-4E7E-BD4A-B63202533BF6 - 545a966aadd9f6f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Search_Dogs.HomeViewController"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "894E7007-D65D-4E7E-BD4A-B63202533BF6 - 3bf56e6fef43a5e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Search_Dogs.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Search_Dogs.HomeViewController&gt;"
+                  moduleName = "Search Dogs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyronaldomacedopizango/Documents/IOS/ChallengesIOS/Search%20Dogs/Search%20Dogs/VIPER/Home/View/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

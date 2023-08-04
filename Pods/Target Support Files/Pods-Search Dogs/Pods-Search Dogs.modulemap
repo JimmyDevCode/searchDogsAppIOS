@@ -1,0 +1,6 @@
+framework module Pods_Search_Dogs {
+  umbrella header "Pods-Search Dogs-umbrella.h"
+
+  export *
+  module * { export * }
+}
