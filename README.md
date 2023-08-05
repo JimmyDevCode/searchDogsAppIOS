@@ -29,13 +29,13 @@ Search Dogs es una aplicación que muestra una lista de perros con una cantidad 
 
 1. Clona este repositorio en tu máquina local usando: https://github.com/JimmyDevCode/searchDogsAppIOS.git
 
-2. Abre el archivo `SearchDogs.xcworkspace` en Xcode.
+2. Abre el archivo `Search Dogs.xcworkspace` en Xcode.
 
 3. Ejecuta la aplicación en el simulador o en un dispositivo físico.
 
 ## Dependencias
 
-Este proyecto utiliza la siguiente dependencia externa:
+Este proyecto hace uso de cocoapods para utilizar las siguientes dependencias externas:
 
 - Alamofire: Para realizar la llamada al API y obtener los datos de las razas de perros.
 - SDWebImage: Para realizar la carga de la imagen por la URL:
@@ -55,7 +55,7 @@ Para ejecutar este proyecto, necesitarás generar tu propia API key visitando la
 
 Para añadir tu API key al proyecto, sigue estos pasos:
 
-1. Abre el proyecto Dog breeds.xcworkspace en Xcode.
+1. Abre el proyecto Search Dogs.xcworkspace en Xcode.
 
 2. Navega hasta la carpeta Search Dogs, luego a Extras, después a Remote y finalmente a RemoteAPI.
 

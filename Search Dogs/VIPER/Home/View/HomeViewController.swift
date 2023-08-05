@@ -56,6 +56,7 @@ class HomeViewController: UIViewController {
         
         tableViewDog.delegate = self
         tableViewDog.dataSource = self
+        
         presenter?.getDogs(page: currentPage)
         
     }
